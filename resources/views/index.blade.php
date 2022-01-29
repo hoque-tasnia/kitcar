@@ -164,7 +164,7 @@
 
                 <div class="offset-lg-6 col-lg-6">
                     <div class="area-heading light">
-                        <h4>Kitcar on <br>Mobile (soon)</h4>
+                        <h4>Kitcar on <br>Mobile (Next upgrade)</h4>
                         <p>The following features makes this platform one of the best Renalt Management System:</p>
                     </div>
                     <div class="row">
