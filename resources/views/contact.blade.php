@@ -56,7 +56,7 @@
               </div>
             </div>
             <div class="form-group mt-3">
-              <a type="submit" href="mailto:Kitkar Developers254@gmail.com" class="button button-contactForm">Send Message</a>
+              <a type="submit" href="mailto:KitkarDevelopers254@gmail.com" class="button button-contactForm">Send Message</a>
             </div>
           </form>
 
@@ -74,14 +74,14 @@
           <div class="media contact-info">
             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
             <div class="media-body">
-              <h3><a href="tel:+254740847563">+254 740 847 563</a></h3>
+              <h3><a href="tel:+254740847563">+60182395395</a></h3>
               
             </div>
           </div>
           <div class="media contact-info">
             <span class="contact-info__icon"><i class="ti-email"></i></span>
             <div class="media-body">
-              <h3><a href="mailto:support@colorlib.com">Kitkar Developers254@gmail.com</a></h3>
+              <h3><a href="mailto:support@colorlib.com">KitkarDevelopers@gmail.com</a></h3>
               <p>Send us your query anytime!</p>
             </div>
           </div>

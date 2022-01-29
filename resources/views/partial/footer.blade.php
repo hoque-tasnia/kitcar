@@ -14,7 +14,7 @@
                     <h4>Contact Info</h4>
                     <div class="footer-address">
                         <p>Address :127.0.0.1 Localhost </p>
-                        <span>Phone : +254 740 847 563</span>
+                        <span>Phone : +60182395395</span>
                         <span>Email : Kitkar Developers254@gmail.com</span>
                     </div>
                 </div>
